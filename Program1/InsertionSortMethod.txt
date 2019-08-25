@@ -1,0 +1,13 @@
+    public static void insertionSort(int[] items, int numberOfItems) {
+        int currentPosition;  // the number of items sorted so far
+        int currentItem;   // the car being inserted
+        int backwardMovingIndex; // used to find where the currentItem gets inserted.
+
+        for (currentPosition = 1; currentPosition < numberOfItems; currentPosition++) {  // Start with 1 (not 0)       
+            currentItem = items[currentPosition];
+            for (backwardMovingIndex = currentPosition - 1; (backwardMovingIndex >= 0) && (items[backwardMovingIndex] > currentItem); backwardMovingIndex--) {
+                items[backwardMovingIndex + 1] = items[backwardMovingIndex];  // Larger values are moving up
+            }
+            items[backwardMovingIndex + 1] = currentItem;    // Put the currentItem in its proper location
+        }
+    }

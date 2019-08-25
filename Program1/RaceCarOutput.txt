@@ -1,0 +1,565 @@
+
+                         Current Standings
+Rank  Car#          Driver      Races  Points  Wins  LedALap  LedMostLaps
+--------------------------------------------------------------------------
+  1    00     David Reutimann     0       0       0      0         0
+  2    01         Regan Smith     0       0       0      0         0
+  3     1    Martin Truex Jr.     0       0       0      0         0
+  4     2          Kurt Busch     0       0       0      0         0
+  5     5         Casey Mears     0       0       0      0         0
+  6     6         David Ragan     0       0       0      0         0
+  7    07        Clint Bowyer     0       0       0      0         0
+  8     7        Robby Gordon     0       0       0      0         0
+  9     8         Mark Martin     0       0       0      0         0
+ 10     9         Kasey Kahne     0       0       0      0         0
+ 11    10  Patrick Carpentier     0       0       0      0         0
+ 12    11        Denny Hamlin     0       0       0      0         0
+ 13    12         Ryan Newman     0       0       0      0         0
+ 14    15         Paul Menard     0       0       0      0         0
+ 15    16         Greg Biffle     0       0       0      0         0
+ 16    17        Matt Kenseth     0       0       0      0         0
+ 17    18          Kyle Busch     0       0       0      0         0
+ 18    19      Elliott Sadler     0       0       0      0         0
+ 19    20        Tony Stewart     0       0       0      0         0
+ 20    21       Johnny Sauter     0       0       0      0         0
+ 21    22         Dave Blaney     0       0       0      0         0
+ 22    24         Jeff Gordon     0       0       0      0         0
+ 23    26      Jamie McMurray     0       0       0      0         0
+ 24    27        Mike Skinner     0       0       0      0         0
+ 25    28       Travis Kvapil     0       0       0      0         0
+ 26    29       Kevin Harvick     0       0       0      0         0
+ 27    31         Jeff Burton     0       0       0      0         0
+ 28    34       John Andretti     0       0       0      0         0
+ 29    38     David Gilliland     0       0       0      0         0
+ 30    40    Dario Franchitti     0       0       0      0         0
+ 31    41       Reed Sorenson     0       0       0      0         0
+ 32    42        Juan Montoya     0       0       0      0         0
+ 33    43       Bobby Labonte     0       0       0      0         0
+ 34    44        Dale Jarrett     0       0       0      0         0
+ 35    45          Kyle Petty     0       0       0      0         0
+ 36    48      Jimmie Johnson     0       0       0      0         0
+ 37    49        Ken Schrader     0       0       0      0         0
+ 38    55     Michael Waltrip     0       0       0      0         0
+ 39    66         Scott Riggs     0       0       0      0         0
+ 40    70     Jeremy Mayfield     0       0       0      0         0
+ 41    77     Sam Hornish Jr.     0       0       0      0         0
+ 42    78        Joe Nemechek     0       0       0      0         0
+ 43    83       Brian Vickers     0       0       0      0         0
+ 44    84   A.J. Allmendinger     0       0       0      0         0
+ 45    88  Dale Earnhardt Jr.     0       0       0      0         0
+ 46    96          J.J. Yeley     0       0       0      0         0
+ 47    99        Carl Edwards     0       0       0      0         0
+ 48   137        Eric McClure     0       0       0      0         0
+ 49   160          Boris Said     0       0       0      0         0
+ 50   187       Kenny Wallace     0       0       0      0         0
+
+         Results for the Daytona 500
+Finish  Car #            Driver         Points
+-----------------------------------------------
+   1     12           Ryan Newman       190/5
+   2      2            Kurt Busch       175/5
+   3     20          Tony Stewart       170/5
+   4     18            Kyle Busch       170/10
+   5     41         Reed Sorenson       160/5
+   6     19        Elliott Sadler       150/0
+   7      9           Kasey Kahne       151/5
+   8      7          Robby Gordon       142/0
+   9     88    Dale Earnhardt Jr.       143/5
+  10     16           Greg Biffle       139/5
+  11     43         Bobby Labonte       130/0
+  12     83         Brian Vickers       127/0
+  13     31           Jeff Burton       129/5
+  14     29         Kevin Harvick       121/0
+  15     77       Sam Hornish Jr.       118/0
+  16     44          Dale Jarrett       115/0
+  17     11          Denny Hamlin       117/5
+  18     00       David Reutimann       109/0
+  19     99          Carl Edwards       106/0
+  20      1      Martin Truex Jr.       103/0
+  21     66           Scott Riggs       100/0
+  22     15           Paul Menard        97/0
+  23     70       Jeremy Mayfield        94/0
+  24     07          Clint Bowyer        96/5
+  25     96            J.J. Yeley        88/0
+  26     26        Jamie McMurray        85/0
+  27     48        Jimmie Johnson        87/5
+  28     38       David Gilliland        79/0
+  29     55       Michael Waltrip        81/5
+  30     28         Travis Kvapil        73/0
+  31      8           Mark Martin        70/0
+  32     42          Juan Montoya        67/0
+  33     40      Dario Franchitti        64/0
+  34     45            Kyle Petty        61/0
+  35      5           Casey Mears        58/0
+  36     17          Matt Kenseth        60/5
+  37     01           Regan Smith        52/0
+  38     22           Dave Blaney        54/5
+  39     24           Jeff Gordon        51/5
+  40     34         John Andretti        43/0
+  41     78          Joe Nemechek        40/0
+  42      6           David Ragan        37/0
+  43    187         Kenny Wallace        34/0
+
+
+                         Current Standings
+Rank  Car#          Driver      Races  Points  Wins  LedALap  LedMostLaps
+--------------------------------------------------------------------------
+  1    12         Ryan Newman     1     190       1      1         0
+  2     2          Kurt Busch     1     175       0      1         0
+  3    18          Kyle Busch     1     170       0      0         1
+  4    20        Tony Stewart     1     170       0      1         0
+  5    41       Reed Sorenson     1     160       0      1         0
+  6     9         Kasey Kahne     1     151       0      1         0
+  7    19      Elliott Sadler     1     150       0      0         0
+  8    88  Dale Earnhardt Jr.     1     143       0      1         0
+  9     7        Robby Gordon     1     142       0      0         0
+ 10    16         Greg Biffle     1     139       0      1         0
+ 11    43       Bobby Labonte     1     130       0      0         0
+ 12    31         Jeff Burton     1     129       0      1         0
+ 13    83       Brian Vickers     1     127       0      0         0
+ 14    29       Kevin Harvick     1     121       0      0         0
+ 15    77     Sam Hornish Jr.     1     118       0      0         0
+ 16    11        Denny Hamlin     1     117       0      1         0
+ 17    44        Dale Jarrett     1     115       0      0         0
+ 18    00     David Reutimann     1     109       0      0         0
+ 19    99        Carl Edwards     1     106       0      0         0
+ 20     1    Martin Truex Jr.     1     103       0      0         0
+ 21    66         Scott Riggs     1     100       0      0         0
+ 22    15         Paul Menard     1      97       0      0         0
+ 23    07        Clint Bowyer     1      96       0      1         0
+ 24    70     Jeremy Mayfield     1      94       0      0         0
+ 25    96          J.J. Yeley     1      88       0      0         0
+ 26    48      Jimmie Johnson     1      87       0      1         0
+ 27    26      Jamie McMurray     1      85       0      0         0
+ 28    55     Michael Waltrip     1      81       0      1         0
+ 29    38     David Gilliland     1      79       0      0         0
+ 30    28       Travis Kvapil     1      73       0      0         0
+ 31     8         Mark Martin     1      70       0      0         0
+ 32    42        Juan Montoya     1      67       0      0         0
+ 33    40    Dario Franchitti     1      64       0      0         0
+ 34    45          Kyle Petty     1      61       0      0         0
+ 35    17        Matt Kenseth     1      60       0      1         0
+ 36     5         Casey Mears     1      58       0      0         0
+ 37    22         Dave Blaney     1      54       0      1         0
+ 38    01         Regan Smith     1      52       0      0         0
+ 39    24         Jeff Gordon     1      51       0      1         0
+ 40    34       John Andretti     1      43       0      0         0
+ 41    78        Joe Nemechek     1      40       0      0         0
+ 42     6         David Ragan     1      37       0      0         0
+ 43   187       Kenny Wallace     1      34       0      0         0
+ 44    10  Patrick Carpentier     0       0       0      0         0
+ 45    21       Johnny Sauter     0       0       0      0         0
+ 46    27        Mike Skinner     0       0       0      0         0
+ 47    49        Ken Schrader     0       0       0      0         0
+ 48    84   A.J. Allmendinger     0       0       0      0         0
+ 49   137        Eric McClure     0       0       0      0         0
+ 50   160          Boris Said     0       0       0      0         0
+
+         Results for the Auto Club 500
+Finish  Car #            Driver         Points
+-----------------------------------------------
+   1     99          Carl Edwards       190/5
+   2     48        Jimmie Johnson       180/10
+   3     24           Jeff Gordon       170/5
+   4     18            Kyle Busch       165/5
+   5     17          Matt Kenseth       160/5
+   6      1      Martin Truex Jr.       150/0
+   7     20          Tony Stewart       146/0
+   8     29         Kevin Harvick       147/5
+   9      9           Kasey Kahne       143/5
+  10     12           Ryan Newman       139/5
+  11     83         Brian Vickers       130/0
+  12     31           Jeff Burton       132/5
+  13      2            Kurt Busch       124/0
+  14      6           David Ragan       121/0
+  15     16           Greg Biffle       123/5
+  16      8           Mark Martin       115/0
+  17     38       David Gilliland       112/0
+  18      7          Robby Gordon       114/5
+  19     07          Clint Bowyer       106/0
+  20     42          Juan Montoya       103/0
+  21     66           Scott Riggs       100/0
+  22     26        Jamie McMurray       102/5
+  23     00       David Reutimann        94/0
+  24     19        Elliott Sadler        91/0
+  25     43         Bobby Labonte        88/0
+  26     21          Bill Elliott        85/0
+  27     15           Paul Menard        82/0
+  28     55       Michael Waltrip        79/0
+  29     96            J.J. Yeley        76/0
+  30     22           Dave Blaney        73/0
+  31     01           Regan Smith        70/0
+  32     40      Dario Franchitti        72/5
+  33     44          Dale Jarrett        69/5
+  34     78          Joe Nemechek        61/0
+  35     34         John Andretti        63/5
+  36     28         Travis Kvapil        55/0
+  37     41         Reed Sorenson        52/0
+  38     45            Kyle Petty        49/0
+  39     70       Jeremy Mayfield        46/0
+  40     88    Dale Earnhardt Jr.        43/0
+  41     11          Denny Hamlin        40/0
+  42      5           Casey Mears        37/0
+  43     77       Sam Hornish Jr.        34/0
+
+
+                         Current Standings
+Rank  Car#          Driver      Races  Points  Wins  LedALap  LedMostLaps
+--------------------------------------------------------------------------
+  1    18          Kyle Busch     2     335       0      1         1
+  2    12         Ryan Newman     2     329       1      2         0
+  3    20        Tony Stewart     2     316       0      1         0
+  4     2          Kurt Busch     2     299       0      1         0
+  5    99        Carl Edwards     2     296       1      1         0
+  6     9         Kasey Kahne     2     294       0      2         0
+  7    29       Kevin Harvick     2     268       0      1         0
+  8    48      Jimmie Johnson     2     267       0      1         1
+  9    16         Greg Biffle     2     262       0      2         0
+ 10    31         Jeff Burton     2     261       0      2         0
+ 11    83       Brian Vickers     2     257       0      0         0
+ 12     7        Robby Gordon     2     256       0      1         0
+ 13     1    Martin Truex Jr.     2     253       0      0         0
+ 14    19      Elliott Sadler     2     241       0      0         0
+ 15    24         Jeff Gordon     2     221       0      2         0
+ 16    17        Matt Kenseth     2     220       0      2         0
+ 17    43       Bobby Labonte     2     218       0      0         0
+ 18    41       Reed Sorenson     2     212       0      1         0
+ 19    00     David Reutimann     2     203       0      0         0
+ 20    07        Clint Bowyer     2     202       0      1         0
+ 21    66         Scott Riggs     2     200       0      0         0
+ 22    38     David Gilliland     2     191       0      0         0
+ 23    26      Jamie McMurray     2     187       0      1         0
+ 24    88  Dale Earnhardt Jr.     2     186       0      1         0
+ 25     8         Mark Martin     2     185       0      0         0
+ 26    44        Dale Jarrett     2     184       0      1         0
+ 27    15         Paul Menard     2     179       0      0         0
+ 28    42        Juan Montoya     2     170       0      0         0
+ 29    96          J.J. Yeley     2     164       0      0         0
+ 30    55     Michael Waltrip     2     160       0      1         0
+ 31     6         David Ragan     2     158       0      0         0
+ 32    11        Denny Hamlin     2     157       0      1         0
+ 33    77     Sam Hornish Jr.     2     152       0      0         0
+ 34    70     Jeremy Mayfield     2     140       0      0         0
+ 35    40    Dario Franchitti     2     136       0      1         0
+ 36    28       Travis Kvapil     2     128       0      0         0
+ 37    22         Dave Blaney     2     127       0      1         0
+ 38    01         Regan Smith     2     122       0      0         0
+ 39    45          Kyle Petty     2     110       0      0         0
+ 40    34       John Andretti     2     106       0      1         0
+ 41    78        Joe Nemechek     2     101       0      0         0
+ 42     5         Casey Mears     2      95       0      0         0
+ 43    21       Johnny Sauter     1      85       0      0         0
+ 44   187       Kenny Wallace     1      34       0      0         0
+ 45    10  Patrick Carpentier     0       0       0      0         0
+ 46    27        Mike Skinner     0       0       0      0         0
+ 47    49        Ken Schrader     0       0       0      0         0
+ 48    84   A.J. Allmendinger     0       0       0      0         0
+ 49   137        Eric McClure     0       0       0      0         0
+ 50   160          Boris Said     0       0       0      0         0
+
+         Results for the UAW-Dodge 400
+Finish  Car #            Driver         Points
+-----------------------------------------------
+   1     99          Carl Edwards       195/10
+   2     88    Dale Earnhardt Jr.       175/5
+   3     16           Greg Biffle       165/0
+   4     29         Kevin Harvick       160/0
+   5     31           Jeff Burton       160/5
+   6      9           Kasey Kahne       150/0
+   7      6           David Ragan       146/0
+   8     28         Travis Kvapil       142/0
+   9     11          Denny Hamlin       138/0
+  10      8           Mark Martin       139/5
+  11     18            Kyle Busch       135/5
+  12     19        Elliott Sadler       127/0
+  13      5           Casey Mears       124/0
+  14     12           Ryan Newman       121/0
+  15      1      Martin Truex Jr.       118/0
+  16     70       Jeremy Mayfield       115/0
+  17     43         Bobby Labonte       112/0
+  18     41         Reed Sorenson       109/0
+  19     42          Juan Montoya       106/0
+  20     17          Matt Kenseth       108/5
+  21     49          Ken Schrader       100/0
+  22     15           Paul Menard        97/0
+  23     38       David Gilliland        94/0
+  24     83         Brian Vickers        91/0
+  25     26        Jamie McMurray        88/0
+  26     22           Dave Blaney        85/0
+  27     96            J.J. Yeley        82/0
+  28     07          Clint Bowyer        79/0
+  29     48        Jimmie Johnson        76/0
+  30     27          Mike Skinner        73/0
+  31     55       Michael Waltrip        70/0
+  32     45            Kyle Petty        67/0
+  33     40      Dario Franchitti        64/0
+  34     01           Regan Smith        61/0
+  35     24           Jeff Gordon        63/5
+  36     66           Scott Riggs        60/5
+  37     00       David Reutimann        52/0
+  38      2            Kurt Busch        49/0
+  39     44          Dale Jarrett        46/0
+  40     10    Patrick Carpentier        43/0
+  41     77       Sam Hornish Jr.        40/0
+  42      7          Robby Gordon        37/0
+  43     20          Tony Stewart        39/5
+
+
+                         Current Standings
+Rank  Car#          Driver      Races  Points  Wins  LedALap  LedMostLaps
+--------------------------------------------------------------------------
+  1    99        Carl Edwards     3     491       2      1         1
+  2    18          Kyle Busch     3     470       0      2         1
+  3    12         Ryan Newman     3     450       1      2         0
+  4     9         Kasey Kahne     3     444       0      2         0
+  5    29       Kevin Harvick     3     428       0      1         0
+  6    16         Greg Biffle     3     427       0      2         0
+  7    31         Jeff Burton     3     421       0      3         0
+  8     1    Martin Truex Jr.     3     371       0      0         0
+  9    19      Elliott Sadler     3     368       0      0         0
+ 10    88  Dale Earnhardt Jr.     3     361       0      2         0
+ 11    20        Tony Stewart     3     355       0      2         0
+ 12     2          Kurt Busch     3     348       0      1         0
+ 13    83       Brian Vickers     3     348       0      0         0
+ 14    48      Jimmie Johnson     3     343       0      1         1
+ 15    43       Bobby Labonte     3     330       0      0         0
+ 16    17        Matt Kenseth     3     328       0      3         0
+ 17     8         Mark Martin     3     324       0      1         0
+ 18    41       Reed Sorenson     3     321       0      1         0
+ 19     6         David Ragan     3     304       0      0         0
+ 20    11        Denny Hamlin     3     295       0      1         0
+ 21     7        Robby Gordon     3     293       0      1         0
+ 22    38     David Gilliland     3     285       0      0         0
+ 23    24         Jeff Gordon     3     284       0      3         0
+ 24    07        Clint Bowyer     3     281       0      1         0
+ 25    15         Paul Menard     3     276       0      0         0
+ 26    42        Juan Montoya     3     276       0      0         0
+ 27    26      Jamie McMurray     3     275       0      1         0
+ 28    28       Travis Kvapil     3     270       0      0         0
+ 29    66         Scott Riggs     3     260       0      1         0
+ 30    00     David Reutimann     3     255       0      0         0
+ 31    70     Jeremy Mayfield     3     255       0      0         0
+ 32    96          J.J. Yeley     3     246       0      0         0
+ 33    44        Dale Jarrett     3     230       0      1         0
+ 34    55     Michael Waltrip     3     230       0      1         0
+ 35     5         Casey Mears     3     219       0      0         0
+ 36    22         Dave Blaney     3     212       0      1         0
+ 37    40    Dario Franchitti     3     200       0      1         0
+ 38    77     Sam Hornish Jr.     3     192       0      0         0
+ 39    01         Regan Smith     3     183       0      0         0
+ 40    45          Kyle Petty     3     177       0      0         0
+ 41    34       John Andretti     2     106       0      1         0
+ 42    78        Joe Nemechek     2     101       0      0         0
+ 43    49        Ken Schrader     1     100       0      0         0
+ 44    21       Johnny Sauter     1      85       0      0         0
+ 45    27        Mike Skinner     1      73       0      0         0
+ 46    10  Patrick Carpentier     1      43       0      0         0
+ 47   187       Kenny Wallace     1      34       0      0         0
+ 48    84   A.J. Allmendinger     0       0       0      0         0
+ 49   137        Eric McClure     0       0       0      0         0
+ 50   160          Boris Said     0       0       0      0         0
+
+         Results for the Kobalt Tools 500
+Finish  Car #            Driver         Points
+-----------------------------------------------
+   1     18            Kyle Busch       195/10
+   2     20          Tony Stewart       170/0
+   3     88    Dale Earnhardt Jr.       170/5
+   4     16           Greg Biffle       165/5
+   5     24           Jeff Gordon       160/5
+   6     07          Clint Bowyer       155/5
+   7     29         Kevin Harvick       146/0
+   8     17          Matt Kenseth       142/0
+   9     83         Brian Vickers       143/5
+  10     31           Jeff Burton       134/0
+  11      2            Kurt Busch       130/0
+  12     43         Bobby Labonte       132/5
+  13     48        Jimmie Johnson       124/0
+  14     12           Ryan Newman       121/0
+  15     11          Denny Hamlin       118/0
+  16     42          Juan Montoya       115/0
+  17      5           Casey Mears       112/0
+  18     66           Scott Riggs       109/0
+  19     15           Paul Menard       106/0
+  20     00       David Reutimann       103/0
+  21      1      Martin Truex Jr.       100/0
+  22      8           Mark Martin        97/0
+  23      6           David Ragan        94/0
+  24      7          Robby Gordon        91/0
+  25     77       Sam Hornish Jr.        88/0
+  26     44          Dale Jarrett        85/0
+  27     84          Mike Skinner        82/0
+  28      9           Kasey Kahne        84/5
+  29     28         Travis Kvapil        76/0
+  30     55       Michael Waltrip        73/0
+  31     41         Reed Sorenson        70/0
+  32     38       David Gilliland        67/0
+  33     40      Dario Franchitti        64/0
+  34     22           Dave Blaney        61/0
+  35     10    Patrick Carpentier        58/0
+  36     78          Joe Nemechek        55/0
+  37     96            J.J. Yeley        52/0
+  38     01           Regan Smith        49/0
+  39     70       Jeremy Mayfield        46/0
+  40     26        Jamie McMurray        43/0
+  41     45            Kyle Petty        40/0
+  42     99          Carl Edwards        42/5
+  43     19        Elliott Sadler        34/0
+
+
+                         Current Standings
+Rank  Car#          Driver      Races  Points  Wins  LedALap  LedMostLaps
+--------------------------------------------------------------------------
+  1    18          Kyle Busch     4     665       1      2         2
+  2    16         Greg Biffle     4     592       0      3         0
+  3    29       Kevin Harvick     4     574       0      1         0
+  4    12         Ryan Newman     4     571       1      2         0
+  5    31         Jeff Burton     4     555       0      3         0
+  6    99        Carl Edwards     4     533       2      2         1
+  7    88  Dale Earnhardt Jr.     4     531       0      3         0
+  8     9         Kasey Kahne     4     528       0      3         0
+  9    20        Tony Stewart     4     525       0      2         0
+ 10    83       Brian Vickers     4     491       0      1         0
+ 11     2          Kurt Busch     4     478       0      1         0
+ 12     1    Martin Truex Jr.     4     471       0      0         0
+ 13    17        Matt Kenseth     4     470       0      3         0
+ 14    48      Jimmie Johnson     4     467       0      1         1
+ 15    43       Bobby Labonte     4     462       0      1         0
+ 16    24         Jeff Gordon     4     444       0      4         0
+ 17    07        Clint Bowyer     4     436       0      2         0
+ 18     8         Mark Martin     4     421       0      1         0
+ 19    11        Denny Hamlin     4     413       0      1         0
+ 20    19      Elliott Sadler     4     402       0      0         0
+ 21     6         David Ragan     4     398       0      0         0
+ 22    41       Reed Sorenson     4     391       0      1         0
+ 23    42        Juan Montoya     4     391       0      0         0
+ 24     7        Robby Gordon     4     384       0      1         0
+ 25    15         Paul Menard     4     382       0      0         0
+ 26    66         Scott Riggs     4     369       0      1         0
+ 27    00     David Reutimann     4     358       0      0         0
+ 28    38     David Gilliland     4     352       0      0         0
+ 29    28       Travis Kvapil     4     346       0      0         0
+ 30     5         Casey Mears     4     331       0      0         0
+ 31    26      Jamie McMurray     4     318       0      1         0
+ 32    44        Dale Jarrett     4     315       0      1         0
+ 33    55     Michael Waltrip     4     303       0      1         0
+ 34    70     Jeremy Mayfield     4     301       0      0         0
+ 35    96          J.J. Yeley     4     298       0      0         0
+ 36    77     Sam Hornish Jr.     4     280       0      0         0
+ 37    22         Dave Blaney     4     273       0      1         0
+ 38    40    Dario Franchitti     4     264       0      1         0
+ 39    01         Regan Smith     4     232       0      0         0
+ 40    45          Kyle Petty     4     217       0      0         0
+ 41    78        Joe Nemechek     3     156       0      0         0
+ 42    34       John Andretti     2     106       0      1         0
+ 43    10  Patrick Carpentier     2     101       0      0         0
+ 44    49        Ken Schrader     1     100       0      0         0
+ 45    21       Johnny Sauter     1      85       0      0         0
+ 46    84   A.J. Allmendinger     1      82       0      0         0
+ 47    27        Mike Skinner     1      73       0      0         0
+ 48   187       Kenny Wallace     1      34       0      0         0
+ 49   137        Eric McClure     0       0       0      0         0
+ 50   160          Boris Said     0       0       0      0         0
+
+         Results for the Food City 500
+Finish  Car #            Driver         Points
+-----------------------------------------------
+   1     31           Jeff Burton       190/5
+   2     29         Kevin Harvick       175/5
+   3     07          Clint Bowyer       170/5
+   4     16           Greg Biffle       160/0
+   5     88    Dale Earnhardt Jr.       155/0
+   6     11          Denny Hamlin       155/5
+   7      9           Kasey Kahne       146/0
+   8      8           Mark Martin       142/0
+   9     38       David Gilliland       138/0
+  10     17          Matt Kenseth       134/0
+  11     24           Jeff Gordon       130/0
+  12      2            Kurt Busch       127/0
+  13      1      Martin Truex Jr.       124/0
+  14     20          Tony Stewart       131/10
+  15     42          Juan Montoya       118/0
+  16     99          Carl Edwards       115/0
+  17     18            Kyle Busch       117/5
+  18     48        Jimmie Johnson       114/5
+  19     19        Elliott Sadler       106/0
+  20     00       David Reutimann       103/0
+  21      6           David Ragan       100/0
+  22     66           Scott Riggs        97/0
+  23     55       Michael Waltrip        99/5
+  24      7          Robby Gordon        91/0
+  25     96            J.J. Yeley        88/0
+  26     01           Regan Smith        85/0
+  27     28         Travis Kvapil        82/0
+  28     45            Kyle Petty        79/0
+  29     77       Sam Hornish Jr.        76/0
+  30     70       Jeremy Mayfield        73/0
+  31     41         Reed Sorenson        70/0
+  32     15           Paul Menard        67/0
+  33     12           Ryan Newman        64/0
+  34     22           Dave Blaney        61/0
+  35     78          Joe Nemechek        58/0
+  36     40      Dario Franchitti        55/0
+  37     44          Dale Jarrett        52/0
+  38     43         Bobby Labonte        49/0
+  39     83         Brian Vickers        46/0
+  40     84          Mike Skinner        43/0
+  41     49          Ken Schrader        40/0
+  42      5           Casey Mears        37/0
+  43     26        Jamie McMurray        34/0
+
+
+                         Current Standings
+Rank  Car#          Driver      Races  Points  Wins  LedALap  LedMostLaps
+--------------------------------------------------------------------------
+  1    18          Kyle Busch     5     782       1      3         2
+  2    16         Greg Biffle     5     752       0      3         0
+  3    29       Kevin Harvick     5     749       0      2         0
+  4    31         Jeff Burton     5     745       1      4         0
+  5    88  Dale Earnhardt Jr.     5     686       0      3         0
+  6     9         Kasey Kahne     5     674       0      3         0
+  7    20        Tony Stewart     5     656       0      2         1
+  8    99        Carl Edwards     5     648       2      2         1
+  9    12         Ryan Newman     5     635       1      2         0
+ 10    07        Clint Bowyer     5     606       0      3         0
+ 11     2          Kurt Busch     5     605       0      1         0
+ 12    17        Matt Kenseth     5     604       0      3         0
+ 13     1    Martin Truex Jr.     5     595       0      0         0
+ 14    48      Jimmie Johnson     5     581       0      2         1
+ 15    24         Jeff Gordon     5     574       0      4         0
+ 16    11        Denny Hamlin     5     568       0      2         0
+ 17     8         Mark Martin     5     563       0      1         0
+ 18    83       Brian Vickers     5     537       0      1         0
+ 19    43       Bobby Labonte     5     511       0      1         0
+ 20    42        Juan Montoya     5     509       0      0         0
+ 21    19      Elliott Sadler     5     508       0      0         0
+ 22     6         David Ragan     5     498       0      0         0
+ 23    38     David Gilliland     5     490       0      0         0
+ 24     7        Robby Gordon     5     475       0      1         0
+ 25    66         Scott Riggs     5     466       0      1         0
+ 26    41       Reed Sorenson     5     461       0      1         0
+ 27    00     David Reutimann     5     461       0      0         0
+ 28    15         Paul Menard     5     449       0      0         0
+ 29    28       Travis Kvapil     5     428       0      0         0
+ 30    55     Michael Waltrip     5     402       0      2         0
+ 31    96          J.J. Yeley     5     386       0      0         0
+ 32    70     Jeremy Mayfield     5     374       0      0         0
+ 33     5         Casey Mears     5     368       0      0         0
+ 34    44        Dale Jarrett     5     367       0      1         0
+ 35    77     Sam Hornish Jr.     5     356       0      0         0
+ 36    26      Jamie McMurray     5     352       0      1         0
+ 37    22         Dave Blaney     5     334       0      1         0
+ 38    40    Dario Franchitti     5     319       0      1         0
+ 39    01         Regan Smith     5     317       0      0         0
+ 40    45          Kyle Petty     5     296       0      0         0
+ 41    78        Joe Nemechek     4     214       0      0         0
+ 42    49        Ken Schrader     2     140       0      0         0
+ 43    84   A.J. Allmendinger     2     125       0      0         0
+ 44    34       John Andretti     2     106       0      1         0
+ 45    10  Patrick Carpentier     2     101       0      0         0
+ 46    21       Johnny Sauter     1      85       0      0         0
+ 47    27        Mike Skinner     1      73       0      0         0
+ 48   187       Kenny Wallace     1      34       0      0         0
+ 49   137        Eric McClure     0       0       0      0         0
+ 50   160          Boris Said     0       0       0      0         0
+
